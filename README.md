@@ -12,4 +12,4 @@ By joining this repository, you become part of a vibrant R10dev.net community, w
 
 Stay updated with new projects, enhancements, and tutorials by following this repository. R10dev Code AI is not just a collection of scripts—it’s a growing hub for innovation, learning, and collaborative development.
 
-https://r10dev.net/
+https://r10dev.net/konular/open-source-flutter-based-ai-code-agent-ide-r10dev-ai-code-editor.4573/
