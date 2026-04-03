@@ -1,15 +1,18 @@
-Welcome to R10dev Code AI, your go-to open-source repository for cutting-edge AI code projects and cursor-style automation scripts. This repository is designed for developers, hobbyists, and AI enthusiasts who want to explore, learn, and contribute to innovative coding solutions.
+🚀 R10dev Code AI – Open-Source AI Code & Automation Scripts
 
-Here, you will find a variety of AI-driven scripts and tools that can help automate repetitive tasks, improve coding efficiency, and serve as a foundation for personal or professional projects. All projects are released under an open license, allowing the R10dev.net community to freely use, modify, and share the code while fostering collaboration and knowledge exchange.
+Welcome to R10dev Code AI, your open-source repository for AI-driven code projects, automation scripts, and cursor-style workflow tools. Perfect for developers, hobbyists, and AI enthusiasts who want to explore, learn, and contribute to innovative coding solutions.
 
-Whether you are a beginner looking to understand AI-based code generation or an experienced developer aiming to implement advanced automation techniques, this repository provides practical examples, detailed documentation, and easy-to-follow instructions. Our projects cover a range of topics, including:
-
-Cursor-style automation scripts for streamlining workflows
+🔹 Features
+Cursor-style automation scripts to streamline workflows
 AI code generation tools to accelerate development
-Open-source projects suitable for learning and experimentation
+Open-source projects for learning, experimentation, and professional use
+🌐 Why Use R10dev Code AI?
+Automate repetitive tasks and improve coding efficiency
+Access practical examples with detailed documentation
+Contribute to a collaborative AI coding community
+Fully open license: use, modify, and share freely
+💡 Get Started
 
-By joining this repository, you become part of a vibrant R10dev.net community, where contributors can share their insights, propose improvements, and collaborate on cutting-edge AI solutions. We encourage you to explore, fork, and contribute, helping make AI coding more accessible and efficient for everyone.
+Explore, fork, and contribute to help make AI coding more accessible and efficient for everyone. Join the R10dev.net community to share insights, propose improvements, and stay updated with new projects and tutorials.
 
-Stay updated with new projects, enhancements, and tutorials by following this repository. R10dev Code AI is not just a collection of scripts—it’s a growing hub for innovation, learning, and collaborative development.
-
-https://r10dev.net/konular/open-source-flutter-based-ai-code-agent-ide-r10dev-ai-code-editor.4573/
+Learn more and download on R10dev.net
