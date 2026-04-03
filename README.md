@@ -16,3 +16,4 @@ Fully open license: use, modify, and share freely
 Explore, fork, and contribute to help make AI coding more accessible and efficient for everyone. Join the R10dev.net community to share insights, propose improvements, and stay updated with new projects and tutorials.
 
 Learn more and download on R10dev.net
+https://r10dev.net/konular/open-source-flutter-based-ai-code-agent-ide-r10dev-ai-code-editor-v2.4573/
